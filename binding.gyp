@@ -2,7 +2,7 @@
   "targets": [
     {
       "target_name": "addon",
-      "sources": [ "addon.cc" ]
+      "sources": [ "lib/hello.cc" ]
     }
   ]
 }
